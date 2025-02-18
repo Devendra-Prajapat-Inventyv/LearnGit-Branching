@@ -1,5 +1,5 @@
 # LearnGit-Branching-
-## 1. Introduction Sequence
+## **1. Introduction Sequence**
 ### Introduction to Git Commits
 ![Screenshot (2)](https://github.com/user-attachments/assets/2a904a87-92e0-4ec7-aaf5-584e9e376b3f)
 
@@ -12,8 +12,7 @@
 ###  Rebase Introduction
 ![Screenshot (5)](https://github.com/user-attachments/assets/6132804e-4571-4bfb-b4eb-2895f5d97799)
 
-## 2. Ramping Up
-
+## **2. Ramping Up**
 ##  Detach HEAD
 ![Screenshot (6)](https://github.com/user-attachments/assets/24560891-78bd-4d32-8b86-b489c727e741)
 
