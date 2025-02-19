@@ -23,3 +23,10 @@
 ![Screenshot (8)](https://github.com/user-attachments/assets/562c579b-a0db-4317-b013-a98c096df22e)
 
 
+### Reversing Changes in Git
+
+![Screenshot (10)](https://github.com/user-attachments/assets/6038c94c-ca8e-4449-8db8-a0cace78b0af)
+
+## 3. Moving Work Around
+### Cherry-pick Intro
+![Screenshot (11)](https://github.com/user-attachments/assets/fa925e7d-373f-49b0-b572-62c45885c896)
